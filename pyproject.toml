@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "live_201"
+version = "0.1.0"
+description = ""
+authors = ["dunossauro <mendesxeduardo@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+bandit = "^1.7.4"
+Pillow = "^9.1.0"
+PySimpleGUI = "^4.59.0"
+memory-profiler = "^0.60.0"
+matplotlib = "^3.5.2"
+snakeviz = "^2.1.1"
+py-spy = "^0.3.12"
+gprof2dot = "^2021.2.21"
+pyinstrument = "^4.1.1"
+eliot = "^1.14.0"
+eliot-tree = "^21.0.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
