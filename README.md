@@ -2,12 +2,13 @@
 
 Um editor de fotos minimalista criado durante as lives de python para exemplificar conceitos de algumas lives.
 
+![screenshot.png](./screenshot.png)
+
 Lives em que esse editor foi usado:
 
 - Pathlib
 - pysimplegui
 - profilling
-
 
 ### Como executar esse projeto
 
