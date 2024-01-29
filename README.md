@@ -9,6 +9,7 @@ Lives em que esse editor foi usado:
 - [Pathlib](https://youtu.be/cHraQ2I0Xgk)
 - [pysimplegui](https://youtu.be/1xGLzxV4qq4)
 - [profilling](https://youtu.be/E_hox7iZjOE)
+- [Padrão de projeto Memento](https://youtu.be/96V1IuEYKxY)
 
 ### Como executar esse projeto
 
